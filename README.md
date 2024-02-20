@@ -2,7 +2,7 @@
 
 Welcome to the Gym Landing Page project! This project is designed as part of an HTML and CSS course to help you understand the fundamentals of web development. In this project, you'll learn how to create a simple landing page for a gym using HTML and CSS.
 
-![GYM Landing Page](screenshot.png)
+![GYM Landing Page](images/screenshot.png)
 
 ### Getting Started
 
